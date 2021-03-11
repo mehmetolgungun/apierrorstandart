@@ -1,5 +1,5 @@
 # apierrorstandart
-.Net Core API Error Standardization
+.Net Core 5.0 API Error Standardization
 
 
 - Standardization of responses in business layer.
