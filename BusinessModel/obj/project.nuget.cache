@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55RAd8VO6rnjPc0WPMPv52LNQ4sBiCHDdxkVv5w1B6iuY2GMGzn/J14hEJ2Dj9mLSGZikcDS6Rqs67JbtQgiaw==",
+  "dgSpecHash": "V9lKYYVLx9GUTxdjeOiyk1lvvBj/9CM/1MIbwSKRo1KPFnJPOGSGxgMoAz73MdiVBpsA4pARdr59c0LuZvXxcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\BusinessModel\\Business.csproj",
+  "projectFilePath": "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\BusinessModel\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehmet.olgungun\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\mehmet.olgungun\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

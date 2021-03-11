@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\APIErrorStandart\\APIErrorStandart.csproj": {}
+    "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\APIErrorStandart\\APIErrorStandart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\APIErrorStandart\\APIErrorStandart.csproj": {
+    "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\APIErrorStandart\\APIErrorStandart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\APIErrorStandart\\APIErrorStandart.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\APIErrorStandart\\APIErrorStandart.csproj",
         "projectName": "APIErrorStandart",
-        "projectPath": "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\APIErrorStandart\\APIErrorStandart.csproj",
+        "projectPath": "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\APIErrorStandart\\APIErrorStandart.csproj",
         "packagesPath": "C:\\Users\\mehmet.olgungun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\APIErrorStandart\\obj\\",
+        "outputPath": "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\APIErrorStandart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehmet.olgungun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\BusinessModel\\Business.csproj": {
-                "projectPath": "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\BusinessModel\\Business.csproj"
+              "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\BusinessModel\\Business.csproj": {
+                "projectPath": "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\BusinessModel\\Business.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\BusinessModel\\Business.csproj": {
+    "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\BusinessModel\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\BusinessModel\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\BusinessModel\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\BusinessModel\\Business.csproj",
+        "projectPath": "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\BusinessModel\\Business.csproj",
         "packagesPath": "C:\\Users\\mehmet.olgungun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmet.olgungun\\source\\repos\\apierrorstandart\\BusinessModel\\obj\\",
+        "outputPath": "C:\\Users\\mehmet.olgungun\\Source\\Repos\\mehmetolgungun\\apierrorstandart\\BusinessModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehmet.olgungun\\AppData\\Roaming\\NuGet\\NuGet.Config",
